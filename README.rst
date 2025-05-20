@@ -37,7 +37,7 @@ Companies
 Authors
 ------------
 
-- kiorky  <freesoftware@makina-corpus.com>
+- MakinaCorpus <freesoftware@makina-corpus.com>
 
 Contributors
 -----------------
