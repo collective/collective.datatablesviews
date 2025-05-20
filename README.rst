@@ -37,7 +37,7 @@ Companies
 Authors
 ------------
 
-- kiorky  <kiorky@cryptelium.net>
+- kiorky  <freesoftware@makina-corpus.com>
 
 Contributors
 -----------------
