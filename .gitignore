@@ -38,3 +38,6 @@ minitage.travis-4.1.x.cfg
 minitage.travis-4.2.x.cfg
 minitage.travis-4.3.x.cfg
 
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
